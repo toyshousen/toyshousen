@@ -7,7 +7,7 @@
 - I’m currently learning C, C++ and C# languages. 
 - I am also interested in game development.
 - I started to learn Unity 3D.
-- I decided to create a portfolio using gitHub.
+- I decided to create a portfolio after my first semester at college.
 
 
 <!---
